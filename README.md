@@ -1,6 +1,6 @@
 - 👋 Heya, I’m @LeroStorm, @ChernoeLeto, @Alex, whatever
 - 👀 I’m interested in gamedev for now and cool with making friens and other connections
-- I'm currently useing godot but planing to comeback to Unity(optional)
+- I'm currently using godot but planing to comeback to Unity(optional)
 - Or going to deeplearning or bigdata
 <!---
 LeroStorm/LeroStorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
